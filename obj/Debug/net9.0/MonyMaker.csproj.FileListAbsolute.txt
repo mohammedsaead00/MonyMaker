@@ -1,0 +1,15 @@
+D:\c sharp\projects\MonyMaker\MonyMaker\bin\Debug\net9.0\MonyMaker.exe
+D:\c sharp\projects\MonyMaker\MonyMaker\bin\Debug\net9.0\MonyMaker.deps.json
+D:\c sharp\projects\MonyMaker\MonyMaker\bin\Debug\net9.0\MonyMaker.runtimeconfig.json
+D:\c sharp\projects\MonyMaker\MonyMaker\bin\Debug\net9.0\MonyMaker.dll
+D:\c sharp\projects\MonyMaker\MonyMaker\bin\Debug\net9.0\MonyMaker.pdb
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.AssemblyInfoInputs.cache
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.AssemblyInfo.cs
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.csproj.CoreCompileInputs.cache
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.sourcelink.json
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.dll
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\refint\MonyMaker.dll
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.pdb
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\MonyMaker.genruntimeconfig.cache
+D:\c sharp\projects\MonyMaker\MonyMaker\obj\Debug\net9.0\ref\MonyMaker.dll
